@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Read [my blog here](https://piotrzakrzewski.github.io/piotrzakrzewski/)
+
 <!--
 **PiotrZakrzewski/piotrzakrzewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
