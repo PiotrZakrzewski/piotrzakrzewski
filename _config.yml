@@ -22,8 +22,11 @@ title: Piotr Zakrzewski Blog
 email: pmz-inbound@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   Tech, Data, Economics, RPG and personal stories by Piotr Zakrzewski
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://piotrzakrzewski.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+domain: piotrzakrzewski.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://piotrzakrzewski.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /piotrzakrzewski/      # place folder name if the site is served in a subfolder
+
 twitter_username: jekyllrb
 github_username:  jekyll
 
