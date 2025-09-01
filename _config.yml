@@ -27,8 +27,7 @@ domain: piotrzakrzewski.github.io       # if you want to force HTTPS, specify th
 url: https://piotrzakrzewski.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /piotrzakrzewski/      # place folder name if the site is served in a subfolder
 
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  PiotrZakrzewski
 
 # Build settings
 theme: minima
